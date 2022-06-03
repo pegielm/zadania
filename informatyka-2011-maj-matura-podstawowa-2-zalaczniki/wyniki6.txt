@@ -1,0 +1,9 @@
+a)
+2 9 12 18 19 20 22
+b)
+55
+c)
+bardzo dobry 1
+niedostateczny 6
+d)
+79 70 65 45 2
